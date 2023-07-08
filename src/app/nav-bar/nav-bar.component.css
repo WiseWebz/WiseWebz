@@ -1,0 +1,24 @@
+.navbar-on-scroll {
+  background-image: none;
+  background-color: rgb(242, 247, 252, 0);
+}
+
+.nav-link:hover {
+  color: #5B8AF0 !important;
+}
+
+.contact {
+  padding: 9px 18px !important;
+  border-radius: 20px;
+}
+
+.contact:hover {
+  background-color: #0d6efd;
+  border: 1px #0d6efd solid;
+}
+
+.get-in-touch {
+  color: white;
+  font-size: 14px;
+  text-decoration: none;
+}
